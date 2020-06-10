@@ -1,17 +1,16 @@
 # Education Python Basic Book :heart_eyes_cat:
 
-One Paragraph of project description goes here
+Python 프로그래밍 언어 입문자를 위한 기본 내용
 
-This initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as
-I can no longer open that page as there are too many comments, I have
-moved it here.
+## Developer Environment
+  - Language: Python 3.7
+  - IDE Tool: JupyterNotebook
 
-## 1. Introduction
+## Contents
 
-  - [Getting Started](#getting-started)
-  - [Runing the tests](#running-the-tests)
-  - [Deployment](#deployment)
+  - [Chapter 01. 주피터 노트북 사용법](#getting-started)
+  - [Chapter 02-1. 변수의 이해 및 기본 데이터 타입](#running-the-tests)
+  - [Chapter 02-2. 문자열 타입의 이해](#deployment)
   - [Built With](#built-with)
   - [Contributing](#contributing)
   - [Versioning](#versioning)
