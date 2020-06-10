@@ -1,4 +1,4 @@
-# Education Python Basic Book : heart_eyes_cat:
+# Education Python Basic Book :heart_eyes_cat:
 
 1. Introduction
   - Python 기본 프로그래밍 내용 정리
